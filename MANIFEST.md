@@ -154,7 +154,7 @@
 ## 7. 归档统计与核对
 
 - 归档目录：46 个 —— 36 个 `godot-*` 可运行 demo、3 个 `blender-*` 资产、`threejs-water-clouds/`、`craft-cloudride/`、`craft-island/`、`animation-retarget-kit/`、`portable-core/`、`agent-probes/`、`docs/`
-- 归档文件：3663 个（`git archive` 导出 3665 个，删除 `*.blend1` 2 个；提交后以 `git ls-files | wc -l` 复核）
+- 归档文件：3664 个（`git archive` 导出 3665 个；删除 `*.blend1` 2 个与嵌套 `tripo-out/` 2 个；新增 README/MANIFEST/.gitignore 3 个；以 `git ls-files | wc -l` 复核为 3664）
 - 最大文件：`agent-probes/blender-anime-girl/qinghe.blend`（约 19.3 MiB）；无 >100 MiB 文件
 - 任务记录覆盖：85 条全部给出目录映射或排除原因（84 条历史 + 本归档任务）
 - 未闭环：2 个运行中目录待同步；1 个第三方 IP 任务明确排除

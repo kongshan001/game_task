@@ -17,7 +17,7 @@
 | 来源 commit | `22dfa74e0e65b60e358fabad8491bf5569294325`（`feat/ai-slice`） |
 | 快照日期 | 2026-11-26 |
 | 导出方式 | `git archive HEAD -- <白名单目录>`，只含已跟踪文件 |
-| 规模 | 3663 个文件 / 约 834 MiB |
+| 规模 | 3664 个文件 / 约 834 MiB（含 README、MANIFEST、.gitignore） |
 | 已剔除 | `*.blend1`、`.DS_Store`、`__pycache__/`、`.godot/`、`.import/` |
 | 任务映射 | 见 [MANIFEST.md](MANIFEST.md)（85 条记录，含 84 条历史任务） |
 
