@@ -1,0 +1,1207 @@
+{
+  "format": "paperdoll.lineup/1",
+  "title": "纸偶工坊 · 初始阵容",
+  "note": "16 个原创纸偶；每角色 1 个破形件 + 60/30/10 色彩纪律；outfit 每槽包含 variant 与独立 color。",
+  "roles": [
+    {
+      "name": "苔藓骑士",
+      "direction": "down_right",
+      "action": "idle",
+      "outfit": {
+        "aura": {
+          "variant": "none",
+          "color": "#f2b34c"
+        },
+        "cape": {
+          "variant": "short",
+          "color": "#4fa58a"
+        },
+        "backpack": {
+          "variant": "shell",
+          "color": "#4a4a55"
+        },
+        "body": {
+          "variant": "grain",
+          "color": "#c08b56"
+        },
+        "pants": {
+          "variant": "trousers",
+          "color": "#45505e"
+        },
+        "shoes": {
+          "variant": "boots",
+          "color": "#5f4232"
+        },
+        "shirt": {
+          "variant": "armor",
+          "color": "#4fa58a"
+        },
+        "belt": {
+          "variant": "sash",
+          "color": "#b07a4a"
+        },
+        "head": {
+          "variant": "round",
+          "color": "#d9a86c"
+        },
+        "ear": {
+          "variant": "pointy",
+          "color": "#c08b56"
+        },
+        "mask": {
+          "variant": "none",
+          "color": "#f3ead7"
+        },
+        "eyes": {
+          "variant": "fierce",
+          "color": "#2f7e78"
+        },
+        "hair": {
+          "variant": "short",
+          "color": "#7a5236"
+        },
+        "hat": {
+          "variant": "leaf",
+          "color": "#4fa58a"
+        },
+        "gloves": {
+          "variant": "bracers",
+          "color": "#b9c0c8"
+        },
+        "weapon": {
+          "variant": "sword",
+          "color": "#b07a4a"
+        },
+        "accessory": {
+          "variant": "badge",
+          "color": "#e0c27a"
+        }
+      }
+    },
+    {
+      "name": "余烬法师",
+      "direction": "up",
+      "action": "idle",
+      "outfit": {
+        "aura": {
+          "variant": "flame",
+          "color": "#f2b34c"
+        },
+        "cape": {
+          "variant": "long",
+          "color": "#8a6fb0"
+        },
+        "backpack": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "body": {
+          "variant": "plain",
+          "color": "#d9a86c"
+        },
+        "pants": {
+          "variant": "leggings",
+          "color": "#45505e"
+        },
+        "shoes": {
+          "variant": "boots",
+          "color": "#5f4232"
+        },
+        "shirt": {
+          "variant": "tunic",
+          "color": "#e86a5c"
+        },
+        "belt": {
+          "variant": "sash",
+          "color": "#f2b34c"
+        },
+        "head": {
+          "variant": "round",
+          "color": "#d9a86c"
+        },
+        "ear": {
+          "variant": "pointy",
+          "color": "#c08b56"
+        },
+        "mask": {
+          "variant": "none",
+          "color": "#f3ead7"
+        },
+        "eyes": {
+          "variant": "sleepy",
+          "color": "#33283f"
+        },
+        "hair": {
+          "variant": "long",
+          "color": "#2f2a36"
+        },
+        "hat": {
+          "variant": "wizard",
+          "color": "#e86a5c"
+        },
+        "gloves": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "weapon": {
+          "variant": "staff",
+          "color": "#5f4232"
+        },
+        "accessory": {
+          "variant": "charm",
+          "color": "#f2b34c"
+        }
+      }
+    },
+    {
+      "name": "蒲公英游侠",
+      "direction": "right",
+      "action": "walk",
+      "outfit": {
+        "aura": {
+          "variant": "leaf",
+          "color": "#f3ead7"
+        },
+        "cape": {
+          "variant": "scarf",
+          "color": "#f2b34c"
+        },
+        "backpack": {
+          "variant": "satchel",
+          "color": "#8a5a3a"
+        },
+        "body": {
+          "variant": "plain",
+          "color": "#d9a86c"
+        },
+        "pants": {
+          "variant": "shorts",
+          "color": "#4fa58a"
+        },
+        "shoes": {
+          "variant": "sneakers",
+          "color": "#f3ead7"
+        },
+        "shirt": {
+          "variant": "tunic",
+          "color": "#4fa58a"
+        },
+        "belt": {
+          "variant": "rope",
+          "color": "#b07a4a"
+        },
+        "head": {
+          "variant": "round",
+          "color": "#d9a86c"
+        },
+        "ear": {
+          "variant": "round",
+          "color": "#c08b56"
+        },
+        "mask": {
+          "variant": "none",
+          "color": "#f3ead7"
+        },
+        "eyes": {
+          "variant": "happy",
+          "color": "#2f7e78"
+        },
+        "hair": {
+          "variant": "bun",
+          "color": "#7a5236"
+        },
+        "hat": {
+          "variant": "leaf",
+          "color": "#f2b34c"
+        },
+        "gloves": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "weapon": {
+          "variant": "staff",
+          "color": "#b07a4a"
+        },
+        "accessory": {
+          "variant": "badge",
+          "color": "#e0c27a"
+        }
+      }
+    },
+    {
+      "name": "铃兰乐手",
+      "direction": "down",
+      "action": "idle",
+      "outfit": {
+        "aura": {
+          "variant": "bubble",
+          "color": "#e88fae"
+        },
+        "cape": {
+          "variant": "none",
+          "color": "#4fa58a"
+        },
+        "backpack": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "body": {
+          "variant": "grain",
+          "color": "#d9a86c"
+        },
+        "pants": {
+          "variant": "skirt",
+          "color": "#4fa58a"
+        },
+        "shoes": {
+          "variant": "sneakers",
+          "color": "#f3ead7"
+        },
+        "shirt": {
+          "variant": "dress",
+          "color": "#e88fae"
+        },
+        "belt": {
+          "variant": "sash",
+          "color": "#4fa58a"
+        },
+        "head": {
+          "variant": "round",
+          "color": "#d9a86c"
+        },
+        "ear": {
+          "variant": "antenna",
+          "color": "#c08b56"
+        },
+        "mask": {
+          "variant": "none",
+          "color": "#f3ead7"
+        },
+        "eyes": {
+          "variant": "sparkle",
+          "color": "#33283f"
+        },
+        "hair": {
+          "variant": "bob",
+          "color": "#7a5236"
+        },
+        "hat": {
+          "variant": "beanie",
+          "color": "#e88fae"
+        },
+        "gloves": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "weapon": {
+          "variant": "fan",
+          "color": "#e88fae"
+        },
+        "accessory": {
+          "variant": "bell",
+          "color": "#e0c27a"
+        }
+      }
+    },
+    {
+      "name": "云朵面包师",
+      "direction": "down",
+      "action": "idle",
+      "outfit": {
+        "aura": {
+          "variant": "none",
+          "color": "#f2b34c"
+        },
+        "cape": {
+          "variant": "none",
+          "color": "#4fa58a"
+        },
+        "backpack": {
+          "variant": "satchel",
+          "color": "#b07a4a"
+        },
+        "body": {
+          "variant": "patch",
+          "color": "#c08b56"
+        },
+        "pants": {
+          "variant": "shorts",
+          "color": "#5a7fb8"
+        },
+        "shoes": {
+          "variant": "clogs",
+          "color": "#b07a4a"
+        },
+        "shirt": {
+          "variant": "hoodie",
+          "color": "#f3ead7"
+        },
+        "belt": {
+          "variant": "sash",
+          "color": "#5a7fb8"
+        },
+        "head": {
+          "variant": "pebble",
+          "color": "#d9a86c"
+        },
+        "ear": {
+          "variant": "round",
+          "color": "#c08b56"
+        },
+        "mask": {
+          "variant": "none",
+          "color": "#f3ead7"
+        },
+        "eyes": {
+          "variant": "sleepy",
+          "color": "#33283f"
+        },
+        "hair": {
+          "variant": "mess",
+          "color": "#e0b98a"
+        },
+        "hat": {
+          "variant": "beanie",
+          "color": "#f3ead7"
+        },
+        "gloves": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "weapon": {
+          "variant": "spoon",
+          "color": "#b07a4a"
+        },
+        "accessory": {
+          "variant": "bell",
+          "color": "#e0c27a"
+        }
+      }
+    },
+    {
+      "name": "河灯渔夫",
+      "direction": "left",
+      "action": "walk",
+      "outfit": {
+        "aura": {
+          "variant": "bubble",
+          "color": "#f2b34c"
+        },
+        "cape": {
+          "variant": "none",
+          "color": "#4fa58a"
+        },
+        "backpack": {
+          "variant": "lantern",
+          "color": "#f2b34c"
+        },
+        "body": {
+          "variant": "grain",
+          "color": "#d9a86c"
+        },
+        "pants": {
+          "variant": "leggings",
+          "color": "#45505e"
+        },
+        "shoes": {
+          "variant": "bare",
+          "color": "#c08b56"
+        },
+        "shirt": {
+          "variant": "vest",
+          "color": "#4fa58a"
+        },
+        "belt": {
+          "variant": "rope",
+          "color": "#b07a4a"
+        },
+        "head": {
+          "variant": "round",
+          "color": "#d9a86c"
+        },
+        "ear": {
+          "variant": "none",
+          "color": "#c08b56"
+        },
+        "mask": {
+          "variant": "none",
+          "color": "#f3ead7"
+        },
+        "eyes": {
+          "variant": "dot",
+          "color": "#33283f"
+        },
+        "hair": {
+          "variant": "spiky",
+          "color": "#2f2a36"
+        },
+        "hat": {
+          "variant": "beanie",
+          "color": "#f2b34c"
+        },
+        "gloves": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "weapon": {
+          "variant": "staff",
+          "color": "#b07a4a"
+        },
+        "accessory": {
+          "variant": "none",
+          "color": "#e0c27a"
+        }
+      }
+    },
+    {
+      "name": "铁皮铁匠",
+      "direction": "left",
+      "action": "idle",
+      "outfit": {
+        "aura": {
+          "variant": "spark",
+          "color": "#f2b34c"
+        },
+        "cape": {
+          "variant": "none",
+          "color": "#4fa58a"
+        },
+        "backpack": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "body": {
+          "variant": "rivet",
+          "color": "#c08b56"
+        },
+        "pants": {
+          "variant": "trousers",
+          "color": "#45505e"
+        },
+        "shoes": {
+          "variant": "boots",
+          "color": "#5f4232"
+        },
+        "shirt": {
+          "variant": "vest",
+          "color": "#c95f5f"
+        },
+        "belt": {
+          "variant": "pouch",
+          "color": "#5f4232"
+        },
+        "head": {
+          "variant": "square",
+          "color": "#c08b56"
+        },
+        "ear": {
+          "variant": "none",
+          "color": "#c08b56"
+        },
+        "mask": {
+          "variant": "none",
+          "color": "#f3ead7"
+        },
+        "eyes": {
+          "variant": "fierce",
+          "color": "#33283f"
+        },
+        "hair": {
+          "variant": "mess",
+          "color": "#2f2a36"
+        },
+        "hat": {
+          "variant": "beanie",
+          "color": "#4a4a55"
+        },
+        "gloves": {
+          "variant": "bracers",
+          "color": "#b9c0c8"
+        },
+        "weapon": {
+          "variant": "hammer",
+          "color": "#b07a4a"
+        },
+        "accessory": {
+          "variant": "badge",
+          "color": "#e0c27a"
+        }
+      }
+    },
+    {
+      "name": "夜巡猫",
+      "direction": "up_right",
+      "action": "walk",
+      "outfit": {
+        "aura": {
+          "variant": "none",
+          "color": "#f2b34c"
+        },
+        "cape": {
+          "variant": "scarf",
+          "color": "#e86a5c"
+        },
+        "backpack": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "body": {
+          "variant": "grain",
+          "color": "#c08b56"
+        },
+        "pants": {
+          "variant": "leggings",
+          "color": "#45505e"
+        },
+        "shoes": {
+          "variant": "sneakers",
+          "color": "#45505e"
+        },
+        "shirt": {
+          "variant": "hoodie",
+          "color": "#45505e"
+        },
+        "belt": {
+          "variant": "rope",
+          "color": "#b07a4a"
+        },
+        "head": {
+          "variant": "round",
+          "color": "#d9a86c"
+        },
+        "ear": {
+          "variant": "pointy",
+          "color": "#5f4232"
+        },
+        "mask": {
+          "variant": "none",
+          "color": "#f3ead7"
+        },
+        "eyes": {
+          "variant": "fierce",
+          "color": "#4fa58a"
+        },
+        "hair": {
+          "variant": "short",
+          "color": "#2f2a36"
+        },
+        "hat": {
+          "variant": "none",
+          "color": "#4fa58a"
+        },
+        "gloves": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "weapon": {
+          "variant": "sword",
+          "color": "#b07a4a"
+        },
+        "accessory": {
+          "variant": "bell",
+          "color": "#e0c27a"
+        }
+      }
+    },
+    {
+      "name": "树洞邮差",
+      "direction": "down_left",
+      "action": "walk",
+      "outfit": {
+        "aura": {
+          "variant": "leaf",
+          "color": "#9ad17c"
+        },
+        "cape": {
+          "variant": "none",
+          "color": "#4fa58a"
+        },
+        "backpack": {
+          "variant": "satchel",
+          "color": "#8a5a3a"
+        },
+        "body": {
+          "variant": "patch",
+          "color": "#d9a86c"
+        },
+        "pants": {
+          "variant": "shorts",
+          "color": "#f2b34c"
+        },
+        "shoes": {
+          "variant": "boots",
+          "color": "#5f4232"
+        },
+        "shirt": {
+          "variant": "hoodie",
+          "color": "#4fa58a"
+        },
+        "belt": {
+          "variant": "sash",
+          "color": "#c95f5f"
+        },
+        "head": {
+          "variant": "round",
+          "color": "#d9a86c"
+        },
+        "ear": {
+          "variant": "round",
+          "color": "#c08b56"
+        },
+        "mask": {
+          "variant": "none",
+          "color": "#f3ead7"
+        },
+        "eyes": {
+          "variant": "happy",
+          "color": "#33283f"
+        },
+        "hair": {
+          "variant": "bob",
+          "color": "#7a5236"
+        },
+        "hat": {
+          "variant": "wizard",
+          "color": "#4fa58a"
+        },
+        "gloves": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "weapon": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "accessory": {
+          "variant": "badge",
+          "color": "#e0c27a"
+        }
+      }
+    },
+    {
+      "name": "霜糖舞者",
+      "direction": "down",
+      "action": "idle",
+      "outfit": {
+        "aura": {
+          "variant": "halo",
+          "color": "#f3ead7"
+        },
+        "cape": {
+          "variant": "long",
+          "color": "#6fa8d8"
+        },
+        "backpack": {
+          "variant": "wings",
+          "color": "#f3ead7"
+        },
+        "body": {
+          "variant": "plain",
+          "color": "#d9a86c"
+        },
+        "pants": {
+          "variant": "skirt",
+          "color": "#6fa8d8"
+        },
+        "shoes": {
+          "variant": "sneakers",
+          "color": "#f3ead7"
+        },
+        "shirt": {
+          "variant": "dress",
+          "color": "#f3ead7"
+        },
+        "belt": {
+          "variant": "sash",
+          "color": "#5a7fb8"
+        },
+        "head": {
+          "variant": "round",
+          "color": "#c08b56"
+        },
+        "ear": {
+          "variant": "pointy",
+          "color": "#c08b56"
+        },
+        "mask": {
+          "variant": "none",
+          "color": "#f3ead7"
+        },
+        "eyes": {
+          "variant": "sleepy",
+          "color": "#2f7e78"
+        },
+        "hair": {
+          "variant": "bun",
+          "color": "#e0b98a"
+        },
+        "hat": {
+          "variant": "crown",
+          "color": "#b9c0c8"
+        },
+        "gloves": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "weapon": {
+          "variant": "fan",
+          "color": "#6fa8d8"
+        },
+        "accessory": {
+          "variant": "pendant",
+          "color": "#e0c27a"
+        }
+      }
+    },
+    {
+      "name": "纸灯剑客",
+      "direction": "down_right",
+      "action": "attack",
+      "outfit": {
+        "aura": {
+          "variant": "spark",
+          "color": "#f2b34c"
+        },
+        "cape": {
+          "variant": "long",
+          "color": "#e86a5c"
+        },
+        "backpack": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "body": {
+          "variant": "plain",
+          "color": "#d9a86c"
+        },
+        "pants": {
+          "variant": "trousers",
+          "color": "#45505e"
+        },
+        "shoes": {
+          "variant": "boots",
+          "color": "#5f4232"
+        },
+        "shirt": {
+          "variant": "tunic",
+          "color": "#e86a5c"
+        },
+        "belt": {
+          "variant": "sash",
+          "color": "#f2b34c"
+        },
+        "head": {
+          "variant": "round",
+          "color": "#d9a86c"
+        },
+        "ear": {
+          "variant": "pointy",
+          "color": "#c08b56"
+        },
+        "mask": {
+          "variant": "none",
+          "color": "#f3ead7"
+        },
+        "eyes": {
+          "variant": "fierce",
+          "color": "#33283f"
+        },
+        "hair": {
+          "variant": "long",
+          "color": "#2f2a36"
+        },
+        "hat": {
+          "variant": "acorn",
+          "color": "#f2b34c"
+        },
+        "gloves": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "weapon": {
+          "variant": "sword",
+          "color": "#b07a4a"
+        },
+        "accessory": {
+          "variant": "charm",
+          "color": "#f2b34c"
+        }
+      }
+    },
+    {
+      "name": "松果盾卫",
+      "direction": "down",
+      "action": "walk",
+      "outfit": {
+        "aura": {
+          "variant": "leaf",
+          "color": "#9ad17c"
+        },
+        "cape": {
+          "variant": "none",
+          "color": "#4fa58a"
+        },
+        "backpack": {
+          "variant": "shell",
+          "color": "#b07a4a"
+        },
+        "body": {
+          "variant": "rivet",
+          "color": "#d9a86c"
+        },
+        "pants": {
+          "variant": "trousers",
+          "color": "#8a5a3a"
+        },
+        "shoes": {
+          "variant": "boots",
+          "color": "#5f4232"
+        },
+        "shirt": {
+          "variant": "armor",
+          "color": "#9ad17c"
+        },
+        "belt": {
+          "variant": "rope",
+          "color": "#b07a4a"
+        },
+        "head": {
+          "variant": "acorn",
+          "color": "#c08b56"
+        },
+        "ear": {
+          "variant": "horn",
+          "color": "#b07a4a"
+        },
+        "mask": {
+          "variant": "none",
+          "color": "#f3ead7"
+        },
+        "eyes": {
+          "variant": "fierce",
+          "color": "#2f7e78"
+        },
+        "hair": {
+          "variant": "short",
+          "color": "#4a3427"
+        },
+        "hat": {
+          "variant": "none",
+          "color": "#5f4232"
+        },
+        "gloves": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "weapon": {
+          "variant": "hammer",
+          "color": "#b07a4a"
+        },
+        "accessory": {
+          "variant": "badge",
+          "color": "#e0c27a"
+        }
+      }
+    },
+    {
+      "name": "露珠药童",
+      "direction": "up_left",
+      "action": "walk",
+      "outfit": {
+        "aura": {
+          "variant": "bubble",
+          "color": "#6fa8d8"
+        },
+        "cape": {
+          "variant": "none",
+          "color": "#4fa58a"
+        },
+        "backpack": {
+          "variant": "wings",
+          "color": "#f3ead7"
+        },
+        "body": {
+          "variant": "grain",
+          "color": "#d9a86c"
+        },
+        "pants": {
+          "variant": "leggings",
+          "color": "#4fa58a"
+        },
+        "shoes": {
+          "variant": "sneakers",
+          "color": "#f3ead7"
+        },
+        "shirt": {
+          "variant": "dress",
+          "color": "#4fa58a"
+        },
+        "belt": {
+          "variant": "sash",
+          "color": "#f3ead7"
+        },
+        "head": {
+          "variant": "round",
+          "color": "#d9a86c"
+        },
+        "ear": {
+          "variant": "round",
+          "color": "#c08b56"
+        },
+        "mask": {
+          "variant": "none",
+          "color": "#f3ead7"
+        },
+        "eyes": {
+          "variant": "happy",
+          "color": "#2f7e78"
+        },
+        "hair": {
+          "variant": "bun",
+          "color": "#7a5236"
+        },
+        "hat": {
+          "variant": "beanie",
+          "color": "#f3ead7"
+        },
+        "gloves": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "weapon": {
+          "variant": "staff",
+          "color": "#b07a4a"
+        },
+        "accessory": {
+          "variant": "bell",
+          "color": "#e0c27a"
+        }
+      }
+    },
+    {
+      "name": "星屑戏法师",
+      "direction": "up_right",
+      "action": "attack",
+      "outfit": {
+        "aura": {
+          "variant": "spark",
+          "color": "#f2b34c"
+        },
+        "cape": {
+          "variant": "short",
+          "color": "#f2b34c"
+        },
+        "backpack": {
+          "variant": "wings",
+          "color": "#f3ead7"
+        },
+        "body": {
+          "variant": "plain",
+          "color": "#d9a86c"
+        },
+        "pants": {
+          "variant": "leggings",
+          "color": "#45505e"
+        },
+        "shoes": {
+          "variant": "boots",
+          "color": "#5f4232"
+        },
+        "shirt": {
+          "variant": "tunic",
+          "color": "#8a6fb0"
+        },
+        "belt": {
+          "variant": "sash",
+          "color": "#f2b34c"
+        },
+        "head": {
+          "variant": "round",
+          "color": "#d9a86c"
+        },
+        "ear": {
+          "variant": "antenna",
+          "color": "#c08b56"
+        },
+        "mask": {
+          "variant": "none",
+          "color": "#f3ead7"
+        },
+        "eyes": {
+          "variant": "sparkle",
+          "color": "#33283f"
+        },
+        "hair": {
+          "variant": "spiky",
+          "color": "#5a7fb8"
+        },
+        "hat": {
+          "variant": "wizard",
+          "color": "#8a6fb0"
+        },
+        "gloves": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "weapon": {
+          "variant": "staff",
+          "color": "#b07a4a"
+        },
+        "accessory": {
+          "variant": "charm",
+          "color": "#e0c27a"
+        }
+      }
+    },
+    {
+      "name": "落日鼓手",
+      "direction": "left",
+      "action": "attack",
+      "outfit": {
+        "aura": {
+          "variant": "flame",
+          "color": "#e86a5c"
+        },
+        "cape": {
+          "variant": "scarf",
+          "color": "#f2b34c"
+        },
+        "backpack": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "body": {
+          "variant": "rivet",
+          "color": "#d9a86c"
+        },
+        "pants": {
+          "variant": "shorts",
+          "color": "#45505e"
+        },
+        "shoes": {
+          "variant": "boots",
+          "color": "#5f4232"
+        },
+        "shirt": {
+          "variant": "vest",
+          "color": "#e86a5c"
+        },
+        "belt": {
+          "variant": "sash",
+          "color": "#f2b34c"
+        },
+        "head": {
+          "variant": "square",
+          "color": "#d9a86c"
+        },
+        "ear": {
+          "variant": "none",
+          "color": "#c08b56"
+        },
+        "mask": {
+          "variant": "none",
+          "color": "#f3ead7"
+        },
+        "eyes": {
+          "variant": "fierce",
+          "color": "#33283f"
+        },
+        "hair": {
+          "variant": "short",
+          "color": "#2f2a36"
+        },
+        "hat": {
+          "variant": "beanie",
+          "color": "#e86a5c"
+        },
+        "gloves": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "weapon": {
+          "variant": "hammer",
+          "color": "#b07a4a"
+        },
+        "accessory": {
+          "variant": "badge",
+          "color": "#e0c27a"
+        }
+      }
+    },
+    {
+      "name": "香菇小贩",
+      "direction": "left",
+      "action": "walk",
+      "outfit": {
+        "aura": {
+          "variant": "bubble",
+          "color": "#e8c79b"
+        },
+        "cape": {
+          "variant": "none",
+          "color": "#4fa58a"
+        },
+        "backpack": {
+          "variant": "lantern",
+          "color": "#9ad17c"
+        },
+        "body": {
+          "variant": "patch",
+          "color": "#d9a86c"
+        },
+        "pants": {
+          "variant": "shorts",
+          "color": "#c95f5f"
+        },
+        "shoes": {
+          "variant": "clogs",
+          "color": "#b07a4a"
+        },
+        "shirt": {
+          "variant": "vest",
+          "color": "#e86a5c"
+        },
+        "belt": {
+          "variant": "pouch",
+          "color": "#b07a4a"
+        },
+        "head": {
+          "variant": "pebble",
+          "color": "#d9a86c"
+        },
+        "ear": {
+          "variant": "round",
+          "color": "#c08b56"
+        },
+        "mask": {
+          "variant": "none",
+          "color": "#f3ead7"
+        },
+        "eyes": {
+          "variant": "happy",
+          "color": "#33283f"
+        },
+        "hair": {
+          "variant": "short",
+          "color": "#7a5236"
+        },
+        "hat": {
+          "variant": "acorn",
+          "color": "#e86a5c"
+        },
+        "gloves": {
+          "variant": "none",
+          "color": "#b07a4a"
+        },
+        "weapon": {
+          "variant": "spoon",
+          "color": "#b07a4a"
+        },
+        "accessory": {
+          "variant": "bell",
+          "color": "#e0c27a"
+        }
+      }
+    }
+  ]
+}
