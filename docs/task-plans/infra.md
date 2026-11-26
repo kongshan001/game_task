@@ -1,0 +1,31 @@
+# 任务规划 · 环境 / 工具链
+
+## 进行中
+
+（空）
+
+## 队列
+
+（空）
+
+## 已完成
+
+## T-20261121-044 · 商品截图比价 Web 应用（Product Scout）
+- 来源: 飞书消息（2026-11-22，“上传商品截图，全网查同款/同型号最低价与好评差评，给购买渠道/链接/价格/评价摘要”）
+- 类型: infra（Web 应用 / 信息聚合）
+- 目标: 上传商品截图 → OCR/视觉提取品牌型号等 → 用户可编辑 → 多渠道公开价格/评分/评论摘要 → 购买决策表（渠道/链接/价格/口碑）
+- 交付: `product-scout/` 可运行 Next.js 应用；Demo 模式 + 可插拔搜索/视觉 provider；单元/E2E 测试；截图/GIF/MP4；README/ARCHITECTURE；媒体
+- 约束: 不绕过反爬/ToS；只用官方或公开搜索 API/链接；不伪造“全网最低”；不持久化用户截图；密钥只走 env；中文 UI；响应式；Demo 数据必须明确标注
+- 指派: general-purpose worker（dispatcher）
+- 状态: done
+- 产出: /Users/ks_128/.cc-connect/tasks/done/T-20261121-044/result.md
+
+## T-20261119-003 · cc-connect 异步并行任务调度
+- 来源: 飞书消息（2026-11-19，要求“不等待上一个任务、并行处理消息”）
+- 类型: infra
+- 目标: 解决 cc-connect 单会话串行导致消息排队；主路由秒回 + detached worker 并行
+- 交付: `tools/task_dispatcher.py`；`CLAUDE.md` / `docs/task-routing.md` / memory 更新
+- 约束: 不修改 cc-connect 本体；结果经 `cc-connect send` 回传；worker 使用受信任用户的任务
+- 指派: 主 Agent（路由机制维护例外）
+- 状态: done
+- 产出: 两个 mock 任务并行完成；真实 `claude -p` worker、`--agent game-engineer`、计划状态同步、`cc-connect send -p important-demo` 通知均验证通过
